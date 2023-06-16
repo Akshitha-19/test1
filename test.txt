@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 Hii Welcome to main txt file
 changes made to main test file #1
-=======
 Hii Welcome to main txt file.
 editing text file in branch1
-<<<<<<< HEAD
->>>>>>> branch1
-========
 making changes to test pull
-=======
 testing pull
->>>>>>> branch1
